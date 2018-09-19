@@ -1,0 +1,131 @@
+body
+{
+    font-family: lucida grande, tahoma, verdana, arial, sans-serif;
+    background-color: #e9e9e9;
+    
+}
+
+body p
+{
+   font-size: 1.0em;
+   line-height:1.28;
+   
+}
+
+#wrapper
+{
+    width: 1080px;
+    background-color: white;
+    margin: 0 auto;
+    padding: 10px;
+    border: 3px solid #dedede;
+   
+}
+
+#banner
+{
+    
+    border:5px solid #dedede;
+    height: 100px;
+     background-image: url(../images/new-ideas-light-wood-floor-background-light-wood-floor-background-home-decorating-ideas-14.jpg);
+    
+}
+/*#sidebar
+{
+    float: left;
+    width: 250px;
+    height: 400px;
+    padding: 10px;
+    border: 2px solid #E3E3E3;
+    margin: 20px 60px;
+   margin-left: -100px;
+}*/
+#Content_area
+{
+    float:right;
+    width: 750px;
+    margin: 10px;
+   
+}
+
+#footer
+{
+    clear: both;
+    width: auto;
+    height: 40px;
+    padding: 10px;
+    border: 3px solid #E3E3E3;
+    text-align: center;
+    color: #ffffff;
+    text-shadow: 0.1em 0.1em #333;
+     background-image: url(../images/new-ideas-light-wood-floor-background-light-wood-floor-background-home-decorating-ideas-14.jpg);
+}
+
+#navigation
+{
+   
+    height: 70px;
+    border: 5px solid #E3E3E3;
+    margin-top: 20px;
+    text-shadow: 0.1em 0.1em #333;
+    background-image: url(../images/new-ideas-light-wood-floor-background-light-wood-floor-background-home-decorating-ideas-14.jpg);
+    
+}
+
+#nav
+{
+    list-style:none;
+    
+}
+#nav ul
+{
+    margin: 0;
+    padding:10;
+    width: auto;
+    display: none;
+    
+    
+}
+#nav li
+{
+    font-size:22px;
+    float: left;
+    position: relative;
+    width: 160px;
+    height: 30px
+}
+
+#nav a:link, nav a:active a:visited
+{
+    display: block;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+#nav a:hover
+{
+    color: lightblue;
+}
+.inputField
+{
+    width: 280px;
+    padding: 4px;
+    
+}
+label
+{
+    float: left;
+    width: 100px;
+    font-weight: bold;
+    
+}
+#frmOffering
+{
+    float: left;
+    width: 300px;
+}
+
+#lgdOffering
+{
+    width: 150px;
+}

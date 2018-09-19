@@ -1,0 +1,295 @@
+body
+{
+    font-family: lucida grande, tahoma, verdana, arial, sans-serif;
+   
+	background-image: url(../images/light-blue-backgrounds-18228-18689-hd-wallpapers.jpg);
+    
+}
+
+body p
+{
+   font-size: 1.0em;
+   line-height:1.28;
+   
+}
+
+#wrapper
+{
+    width: 1080px;
+    height: auto;
+    background-color: white;
+    margin: 0 auto;
+    padding: 10px;
+    border: 3px solid #dedede;
+   
+}
+
+#banner
+{
+    
+    border:5px solid #dedede;
+    height: 170px;
+    background-image: url('../images/banner/Hearing-From-God-Ministry-Website-Banner-2.jpg');
+    
+}
+
+#churchName
+{
+	font-size: 43px;
+	width:450px;
+	margin-left:300px;
+	font-weight: bold;
+	margin-top:-110px;
+	text-shadow: 0.1em 0.1em #333;
+	color:#E3E3E3;
+}
+/*sidebar
+{
+   // float: left;
+    width: 250px;
+    height: 400px;
+   // padding: 10px;
+    border: 2px solid #E3E3E3;
+  //  margin: 20px 60px;
+  // margin-left: -100px;
+}*/
+#Content_area
+{
+    float:left;
+    width: 750px;
+    margin: 10px;
+   
+   
+}
+
+#footer
+{
+    clear: both;
+    width: auto;
+    height: 40px;
+    padding: 10px;
+    border: 3px solid #E3E3E3;
+    text-align: center;
+    color: #ffffff;
+    text-shadow: 0.1em 0.1em #333;
+     background-image: url(../images/purple-gaussian-blur-wallpaper-3217-3421-hd-wallpapers.jpg);
+}
+
+#navigation
+{
+   
+    background-image: url(..//images/purple-gaussian-blur-wallpaper-3217-3421-hd-wallpapers.jpg);
+    
+}
+
+/*#nav
+{
+    list-style:none;
+    
+}
+#nav ul
+{
+    margin: 0;
+    padding:0;
+    width: auto;
+    display: none;
+    list-style: none;
+}
+#nav li
+{
+    font-size:18px;
+    float: left;
+    position: relative;
+    width: auto;
+    height: 30px;
+    margin-bottom: 25px;
+    padding: 20px;
+    margin-top: -10px;
+    display:block;
+}
+
+#nav a:link, nav a:active a:visited
+{
+    display: block;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+#nav a:hover
+{
+    color: lightblue;
+}
+#nav a.active {
+  background-color: #aaa;
+  color: #444;
+  cursor: pointer; 
+}*/
+#nav ul
+{
+  list-style: none;
+  background-image: url(../images/purple-gaussian-blur-wallpaper-3217-3421-hd-wallpapers.jpg);
+  padding: 0;
+  margin: 0; 
+  border-bottom:5px solid lightblue;
+  
+}
+#nav li
+{
+    font-family: 'Oswald', sans-serif;
+  font-size: 1.2em;
+  line-height: 40px;
+  text-align: left;
+  position:relative;
+}
+
+#nav a
+{
+   text-decoration: none;
+  color: #000;
+  display: block;
+  padding-left: 15px;   
+}
+
+#nav a:hover
+{
+     color: lightblue;
+}
+#nav a.active
+{
+    background-color: #aaa;
+  color: #444;
+  cursor: pointer;
+}
+#nav li li
+{
+font-size: 0.8em;
+}
+#nav li{
+    width: 160px;
+    border-bottom: none;
+    height: 50px;
+    line-height: 50px;
+    font-size: 18px;
+    display: inline-block;
+    margin-right: -4px;
+}
+nav a
+{
+     border-bottom: none;
+}
+
+#nav>ul>li
+{
+    text-align: center;
+}
+#nav >ul>li>a
+{
+    padding-left: 0;
+}
+
+#nav li ul{
+    position: absolute;
+    display: none;
+    width: inherit;
+    border-bottom:none;
+
+}
+#nav li:hover ul
+{
+   display: block; 
+}
+
+#nav li ul li
+{
+    display: block;
+}
+/****************************************************************************/
+.inputField
+{
+    width: auto;
+    padding: 3px;
+	margin-top: -14px;
+    
+}
+label
+{
+    float: left;
+    width: 173px;
+    font-weight: bold;
+    font-size: 14px;
+    
+}
+.frm
+{
+    
+    width: auto;
+    margin-left:120px;
+}
+
+#lgdOffering
+{
+    width: 100px;
+}
+h2
+{
+	margin-left:200px;
+}
+h3
+{
+	margin-left:330px;
+}
+p
+{
+	width:300px;
+	margin-left:330px;
+}
+
+.error
+{
+    color: red;
+}
+form
+{
+    width:auto;
+    margin-left:120px;
+}
+.img
+{
+    margin-left: 800px;
+    margin-top: -230px;
+}
+.img2
+{
+    margin-left: 800px;
+    margin-top: 20px;
+}
+.img3
+{
+     margin-left: 800px;
+    margin-top: 30px;
+}
+.mission
+{
+    margin-top: -230px;
+}
+.frm
+{
+    margin-left: 120px;
+}
+
+#reportForm
+{
+    width: 400px;
+}
+table
+{
+    width: 550px;
+}
+td
+{
+    width:550px;
+}
+#feedback.label
+{
+    width: 250px;
+}
